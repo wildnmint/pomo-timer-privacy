@@ -1,6 +1,3 @@
-# pomo-timer-privacy
-Privacy Notice for Pomo Timer
-
 # Pomo Timer Privacy Policy
 
 Effective date: June 30, 2026
